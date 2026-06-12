@@ -1,0 +1,5 @@
+ultralytics
+oprncv-python
+numpy
+matplotlib
+pandas
